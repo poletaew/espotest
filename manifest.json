@@ -1,0 +1,10 @@
+{
+  "name": "Test task",
+  "version": "1.0.8",
+  "acceptableVersions": [
+	">=4.4.1"
+  ],
+  "releaseDate": "2017-02-28",
+  "author": "Michael Poletaew",
+  "description": "Test task for Skyeng by Michael Poletaew"
+}

@@ -1,0 +1,6 @@
+{
+    "view":"test:views/dashlets/test",
+    "aclScope": "Test",
+    "entityType": "Test",
+    "options": {}
+}
